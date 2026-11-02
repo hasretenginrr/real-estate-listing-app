@@ -7,6 +7,15 @@
 A React application for browsing, filtering, and adding real estate listings. Property records are read from and submitted to Google Sheets through NoCodeAPI.
 
 This is a frontend prototype with a Turkish interface, not a production-ready real estate management system. No custom backend is included.
+<img width="1484" height="811" alt="Ekran görüntüsü 2024-06-26 165057" src="https://github.com/user-attachments/assets/3fa4e3e2-176e-4d39-a9c9-fa36ca4d285e" />
+<img width="1869" height="860" alt="Ekran görüntüsü 2024-06-26 161312" src="https://github.com/user-attachments/assets/f687b86d-57b0-4ccf-9c56-a6221b9adb52" />
+<img width="1826" height="512" alt="Ekran görüntüsü 2024-06-26 154411" src="https://github.com/user-attachments/assets/9bd384db-6175-4d74-88e1-cadaebb5bc9e" />
+
+<img width="1854" height="837" alt="Ekran görüntüsü 2024-06-26 154145" src="https://github.com/user-attachments/assets/aa34e213-3394-4ce3-acea-b3ffe1e82ec7" />
+<img width="1847" height="848" alt="Ekran görüntüsü 2024-06-26 154218" src="https://github.com/user-attachments/assets/a8b728f2-b0e2-43cd-953d-8cabf487e5be" />
+
+<img width="1879" height="842" alt="Ekran görüntüsü 2024-06-26 154123" src="https://github.com/user-attachments/assets/e7da6d35-2982-4265-b587-c78cda2c6fe7" />
+<img width="1915" height="855" alt="Ekran görüntüsü 2024-06-26 152317" src="https://github.com/user-attachments/assets/b9f8a91b-d1ba-4c56-ad3f-deab26954193" />
 
 ## Features
 
